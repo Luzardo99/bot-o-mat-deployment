@@ -1,0 +1,17 @@
+body {
+  
+    background: linear-gradient(to right, rgb(255, 167, 35), rgb(255, 97, 35));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
